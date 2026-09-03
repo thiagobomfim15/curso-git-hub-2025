@@ -7,12 +7,12 @@ git commit -m -> faz commit do que estava para ser salvo
 ## Fluxo de trabalho
 
 1. criar diretório do projeto
-2. git init: incia  dentro do projeto
+2. git init . : inicia  dentro do projeto
 3. edita ou cria arquivos 
 4. git status -> verfica status
-5. git add <NOME DO ARQUIVO
+5. git add <NOME DO ARQUIVO> ou git add .(pasta atual) (add arquivos para o checkpoint)
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "mensagem" -> salva versão e estado
 8. git status
 9. volta ao passo 3
 
