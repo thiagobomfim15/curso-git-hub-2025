@@ -6,7 +6,7 @@ git commit -m -> faz commit do que estava para ser salvo
 
 ## Fluxo de trabalho
 
-1. criar diretório do projeto
+1. criar diretório do projeto (alteração da ana)
 2. git init . : inicia  dentro do projeto
 3. edita ou cria arquivos (alteração 01) 
 4. git status -> verfica status
