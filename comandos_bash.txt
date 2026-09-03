@@ -1,5 +1,5 @@
 
 ls -> lista arquivos
-cd -> change directory (muda entre diretórios)
-pwd -> print work directory -> exibe o diretório atual 
-
+cd (change directory) -> (muda entre diretórios)
+pwd (print work directory) -> exibe o diretório atual 
+mkdir (make directory) -> cria diretório
