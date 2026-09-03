@@ -1,1 +1,9 @@
 Testando e aprendendo branches em git
+
+- primeiro comando
+- segundo comando 
+
+# comandos mais genéricos 
+
+- comandos estranhos
+- mais comandos estranhos
