@@ -8,11 +8,11 @@ git commit -m -> faz commit do que estava para ser salvo
 
 1. criar diretório do projeto
 2. git init . : inicia  dentro do projeto
-3. edita ou cria arquivos 
+3. edita ou cria arquivos (alteração 01) 
 4. git status -> verfica status
 5. git add <NOME DO ARQUIVO> ou git add .(pasta atual) (add arquivos para o checkpoint)
-6. git status
+6. git status (alteração 02)
 7. git commit -m "mensagem" -> salva versão e estado
 8. git status
-9. volta ao passo 3
+9. volta ao passo 3 (alteração 03)
 
