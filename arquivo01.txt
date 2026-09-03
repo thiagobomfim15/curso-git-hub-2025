@@ -2,5 +2,8 @@ arquivo01 criado agora
 
 só pra registrar a alteração
 
+HEAD
 
+criando conflito 01
 alterações da ana
+
