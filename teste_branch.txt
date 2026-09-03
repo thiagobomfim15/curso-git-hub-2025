@@ -1,4 +1,10 @@
 
 arquivo para testar merge de branches
 
+<<<<<<< HEAD
 - alteração depois da merge with secundaria
+=======
+
+
+alteração aparecendo apenas em secundaria
+>>>>>>> secundaria
