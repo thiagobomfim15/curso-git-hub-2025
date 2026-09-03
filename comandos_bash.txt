@@ -1,3 +1,4 @@
+# Comandos bash
 
 ls -> lista arquivos
 cd (change directory) -> (muda entre diretórios)
