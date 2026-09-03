@@ -1,5 +1,0 @@
-# Comandos secundários de git 
-branch: secundaria
-
-
-
