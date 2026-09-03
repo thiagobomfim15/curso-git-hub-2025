@@ -2,3 +2,17 @@ git init. -> cria um repositório na pasta atual
 git status -> mostra o status do trabalho
 git add nome do arquivo -> adiciona o arquiva á fila para ser commit
 git commit -m -> faz commit do que estava para ser salvo
+
+
+## Fluxo de trabalho
+
+1. criar diretório do projeto
+2. git init: incia  dentro do projeto
+3. edita ou cria arquivos 
+4. git status -> verfica status
+5. git add <NOME DO ARQUIVO
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta ao passo 3
+

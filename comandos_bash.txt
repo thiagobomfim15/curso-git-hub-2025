@@ -3,3 +3,6 @@ ls -> lista arquivos
 cd (change directory) -> (muda entre diretórios)
 pwd (print work directory) -> exibe o diretório atual 
 mkdir (make directory) -> cria diretório
+rm -rf -> remove de forma recursiva e forçada
+git log -> mostra o histórico de commit
+
