@@ -1,3 +1,5 @@
 arquivo01 criado agora
 
 só pra registrar a alteração
+
+criando conflito 01
