@@ -1,2 +1,2 @@
-# Curso teo me why git & GitHub 2025
+# Curso Teo Me Why Git & GitHub 2025
 
