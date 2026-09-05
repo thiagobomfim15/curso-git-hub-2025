@@ -9,4 +9,4 @@ Confira tudo que temos no nosso YouTube
 
 pessoas participantes : 
 
-Thiago
+Thiago Bomfim
